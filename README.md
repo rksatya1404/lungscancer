@@ -6,7 +6,7 @@
 
 - The cells can be taken from lung secretions (mucus you cough up from the lungs), fluid removed from the area around the lung (thoracentesis), or from a suspicious area using a needle or surgery (biopsy). The choice of which test(s) to use depends on the situation.
 
-- Check out the live Deployment at - [Streamlit Deployment](https://vedantkadam-lung-cancer-streamlit-app-le67uq.streamlit.app/) 
+- Check out the live Deployment at - [Streamlit Deployment](https://vedantkadam-lung-cancer-cnn-app-1hwc8w.streamlit.app/) 
 ## How to Run this Project
 
 ## Tech Stacks Used
